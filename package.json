@@ -1,0 +1,38 @@
+{
+  "name": "ai-video-remotion",
+  "version": "1.0.0",
+  "description": "Remotion Three.js animated shorts with cartoon-3d-short skill",
+  "scripts": {
+    "preview": "remotion preview",
+    "render": "remotion render",
+    "build": "remotion bundle",
+    "render:final": "remotion render src/index.ts DancingBridgeShort out/dancing_bridge.mp4",
+    "render:draft": "remotion render src/index.ts DancingBridgeDraft out/dancing_bridge_draft.mp4",
+    "bench": "node scripts/bench-render.mjs",
+    "stills": "node scripts/stills.mjs",
+    "gpu:check": "sh scripts/gpu-check.sh",
+    "plates:bake": "node scripts/plates.mjs",
+    "plates:bench": "node scripts/plate-bench.mjs",
+    "plates:import": "python3 scripts/import-plate.py",
+    "timing:align": "python3 scripts/align_voice_timing.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/postprocessing": "^2.16.2",
+    "@remotion/cli": "^4.0.245",
+    "@remotion/three": "^4.0.245",
+    "postprocessing": "^6.36.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.245",
+    "three": "^0.164.1"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "^4.0.245",
+    "@remotion/renderer": "^4.0.245",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.164.1",
+    "typescript": "^5.6.3"
+  }
+}

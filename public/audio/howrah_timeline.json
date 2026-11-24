@@ -1,0 +1,431 @@
+{
+  "episode": "howrah",
+  "fps": 30,
+  "total_frames": 2525,
+  "duration_s": 84.17,
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+5%",
+  "audio_file": "public/audio/howrah_voice.mp3",
+  "shots": [
+    {
+      "id": "midnight_hook",
+      "scene": "river_night",
+      "frames": [
+        0,
+        127
+      ],
+      "duration_frames": 127,
+      "duration_s": 4.23,
+      "narration": "The most crowded bridge on Earth opened in total silence in the middle of the night.",
+      "word_span_s": [
+        0.0976,
+        3.8238
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 2.5
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 16
+    },
+    {
+      "id": "steel_monster",
+      "scene": "bridge_tower",
+      "frames": [
+        127,
+        383
+      ],
+      "duration_frames": 256,
+      "duration_s": 8.53,
+      "narration": "It's 1943, and engineers in Kolkata have just finished a 26,500-ton steel monster across the Hooghly River.",
+      "word_span_s": [
+        4.6429,
+        12.3572
+      ],
+      "camera": {
+        "move": "crane",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 2.8
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.35,
+      "kick_impact": {
+        "frame": 319,
+        "amplitude": 0.35,
+        "word": "monster"
+      },
+      "matched_words_count": 17
+    },
+    {
+      "id": "zero_pillars",
+      "scene": "river_wide",
+      "frames": [
+        383,
+        591
+      ],
+      "duration_frames": 208,
+      "duration_s": 6.93,
+      "narration": "It stretches 1,500 feet from bank to bank without a single pillar touching the water below.",
+      "word_span_s": [
+        13.1786,
+        19.631
+      ],
+      "camera": {
+        "move": "truck",
+        "ease": "smoother",
+        "from": -0.5,
+        "to": 0.8
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 16
+    },
+    {
+      "id": "rivets_only",
+      "scene": "rivet_macro",
+      "frames": [
+        591,
+        765
+      ],
+      "duration_frames": 174,
+      "duration_s": 5.8,
+      "narration": "Even crazier, the entire skeleton is riveted together without a single nut or bolt.",
+      "word_span_s": [
+        19.6429,
+        25.4047
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 2.2
+      },
+      "cast": [],
+      "dof": 4.0,
+      "kick": 0.4,
+      "kick_impact": {
+        "frame": 707,
+        "amplitude": 0.4,
+        "word": "bolt"
+      },
+      "matched_words_count": 14
+    },
+    {
+      "id": "brass_parade",
+      "scene": "imagined_parade",
+      "frames": [
+        765,
+        935
+      ],
+      "duration_frames": 170,
+      "duration_s": 5.67,
+      "narration": "Normally, a bridge like this gets brass bands, speeches, and a massive parade.",
+      "word_span_s": [
+        25.6071,
+        31.0595
+      ],
+      "camera": {
+        "move": "truck",
+        "ease": "smoother",
+        "from": -0.4,
+        "to": 0.6
+      },
+      "cast": [],
+      "dof": 4.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 13
+    },
+    {
+      "id": "lonely_tram",
+      "scene": "deck_tram",
+      "frames": [
+        935,
+        1110
+      ],
+      "duration_frames": 175,
+      "duration_s": 5.83,
+      "narration": "Instead, at midnight, the very first thing to cross it is one lonely tram rolling through the dark.",
+      "word_span_s": [
+        31.2381,
+        36.9167
+      ],
+      "camera": {
+        "move": "creep",
+        "ease": "smoother"
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.3,
+      "kick_impact": {
+        "frame": 1028,
+        "amplitude": 0.3,
+        "word": "tram"
+      },
+      "matched_words_count": 18
+    },
+    {
+      "id": "air_raid",
+      "scene": "sky_bombers",
+      "frames": [
+        1110,
+        1267
+      ],
+      "duration_frames": 157,
+      "duration_s": 5.23,
+      "narration": "World War II was raging, and Japanese bombers were hitting the city from the sky.",
+      "word_span_s": [
+        36.9286,
+        42.1785
+      ],
+      "camera": {
+        "move": "crane",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 3.0
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.42,
+      "kick_impact": {
+        "frame": 1209,
+        "amplitude": 0.42,
+        "word": "sky"
+      },
+      "matched_words_count": 15
+    },
+    {
+      "id": "terrified_officials",
+      "scene": "blackout_deck",
+      "frames": [
+        1267,
+        1450
+      ],
+      "duration_frames": 183,
+      "duration_s": 6.1,
+      "narration": "Officials were terrified a daytime crowd would turn their brand-new pride and joy into an easy target.",
+      "word_span_s": [
+        42.1905,
+        48.25
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 2.0
+      },
+      "cast": [],
+      "dof": 4.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 17
+    },
+    {
+      "id": "bombers_miss",
+      "scene": "bridge_dawn",
+      "frames": [
+        1450,
+        1545
+      ],
+      "duration_frames": 95,
+      "duration_s": 3.17,
+      "narration": "Luckily, the bombers never took it down.",
+      "word_span_s": [
+        48.369,
+        51.3929
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.5
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.25,
+      "kick_impact": {
+        "frame": 1483,
+        "amplitude": 0.25,
+        "word": "down"
+      },
+      "matched_words_count": 7
+    },
+    {
+      "id": "gravity_fight",
+      "scene": "river_night_strain",
+      "frames": [
+        1545,
+        1697
+      ],
+      "duration_frames": 152,
+      "duration_s": 5.07,
+      "narration": "Unluckily, the bridge still had to fight gravity every single second without a center pier.",
+      "word_span_s": [
+        51.5714,
+        56.5
+      ],
+      "camera": {
+        "move": "truck",
+        "ease": "smoother",
+        "from": 0.4,
+        "to": -0.4
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.4,
+      "kick_impact": {
+        "frame": 1584,
+        "amplitude": 0.4,
+        "word": "gravity"
+      },
+      "matched_words_count": 15
+    },
+    {
+      "id": "cantilever_mystery",
+      "scene": "riverbank_puzzle",
+      "frames": [
+        1697,
+        1845
+      ],
+      "duration_frames": 148,
+      "duration_s": 4.93,
+      "narration": "You see, how does a bridge that heavy hang over a river with nothing underneath it?",
+      "word_span_s": [
+        56.5119,
+        61.4285
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 2.2
+      },
+      "cast": [],
+      "dof": 4.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 16
+    },
+    {
+      "id": "seesaw_balance",
+      "scene": "seesaw_demo",
+      "frames": [
+        1845,
+        2018
+      ],
+      "duration_frames": 173,
+      "duration_s": 5.77,
+      "narration": "Ever sat back-to-back with someone on a seesaw, leaning outward so both ends balance in mid-air?",
+      "word_span_s": [
+        61.4405,
+        67.2024
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 2.5
+      },
+      "cast": [],
+      "dof": 3.0,
+      "kick": 0.35,
+      "kick_impact": {
+        "frame": 1951,
+        "amplitude": 0.35,
+        "word": "balance"
+      },
+      "matched_words_count": 16
+    },
+    {
+      "id": "anchor_arms",
+      "scene": "cantilever_anchors",
+      "frames": [
+        2018,
+        2171
+      ],
+      "duration_frames": 153,
+      "duration_s": 5.1,
+      "narration": "Each side of the Howrah Bridge anchors deep into the riverbanks to hold the middle up in the sky.",
+      "word_span_s": [
+        67.2143,
+        72.3095
+      ],
+      "camera": {
+        "move": "crane",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 3.2
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.3,
+      "kick_impact": {
+        "frame": 2059,
+        "amplitude": 0.3,
+        "word": "deep"
+      },
+      "matched_words_count": 19
+    },
+    {
+      "id": "war_survivor",
+      "scene": "bridge_golden",
+      "frames": [
+        2171,
+        2348
+      ],
+      "duration_frames": 177,
+      "duration_s": 5.9,
+      "narration": "The secret midnight crossing survived the war and became the busiest cantilever bridge on the planet.",
+      "word_span_s": [
+        72.3214,
+        78.1905
+      ],
+      "camera": {
+        "move": "truck",
+        "ease": "smoother",
+        "from": -0.6,
+        "to": 0.6
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 16
+    },
+    {
+      "id": "crowds_today",
+      "scene": "crowded_day",
+      "frames": [
+        2348,
+        2525
+      ],
+      "duration_frames": 177,
+      "duration_s": 5.9,
+      "narration": "So today, the bridge built to hide from crowds carries hundreds of thousands of people every single day.",
+      "word_span_s": [
+        78.2024,
+        83.369
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 3.0
+      },
+      "cast": [],
+      "dof": 3.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 17
+    }
+  ]
+}

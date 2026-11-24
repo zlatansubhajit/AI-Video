@@ -1,0 +1,175 @@
+{
+  "episode": "pinewood_night_1",
+  "fps": 30,
+  "total_frames": 1149,
+  "duration_s": 38.3,
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+0%",
+  "audio_file": "public/audio/pinewood_night_1_voice.mp3",
+  "shots": [
+    {
+      "id": "fire_die",
+      "scene": "fire_die",
+      "frames": [
+        0,
+        108
+      ],
+      "duration_frames": 108,
+      "duration_s": 3.6,
+      "narration": "Never let the campfire die... in Pinewood Valley.",
+      "word_span_s": [
+        0.1,
+        3.175
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.2
+      },
+      "cast": [],
+      "dof": 6.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 8
+    },
+    {
+      "id": "trail_hike",
+      "scene": "trail_hike",
+      "frames": [
+        108,
+        273
+      ],
+      "duration_frames": 165,
+      "duration_s": 5.5,
+      "narration": "Leo and Sam had hiked since sunrise, laughing their way deep into the pines.",
+      "word_span_s": [
+        4.0375,
+        8.675
+      ],
+      "camera": {
+        "move": "truck",
+        "ease": "smoother",
+        "from": -4.0,
+        "to": 2.0
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 14
+    },
+    {
+      "id": "pup_rescue",
+      "scene": "pup_rescue",
+      "frames": [
+        273,
+        454
+      ],
+      "duration_frames": 181,
+      "duration_s": 6.03,
+      "narration": "Near mile six, Leo stopped, freeing a tiny wolf pup caught in an old red rope.",
+      "word_span_s": [
+        9.5375,
+        14.6875
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.5
+      },
+      "cast": [],
+      "dof": 4.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 16
+    },
+    {
+      "id": "camp_sunset",
+      "scene": "camp_sunset",
+      "frames": [
+        454,
+        663
+      ],
+      "duration_frames": 209,
+      "duration_s": 6.97,
+      "narration": "By dusk, they pitched camp and crashed hard. Hours later, the last ember faded out.",
+      "word_span_s": [
+        15.55,
+        21.675
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.8
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 15
+    },
+    {
+      "id": "howl_wake",
+      "scene": "howl_wake",
+      "frames": [
+        663,
+        930
+      ],
+      "duration_frames": 267,
+      "duration_s": 8.9,
+      "narration": "At 2:14 AM, Leo snapped awake. That howl wasn't distant. It was right outside.",
+      "word_span_s": [
+        22.5375,
+        30.925
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.1
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.45,
+      "kick_impact": {
+        "frame": 794,
+        "amplitude": 0.45,
+        "word": "howl"
+      },
+      "matched_words_count": 14
+    },
+    {
+      "id": "empty_zipper",
+      "scene": "empty_zipper",
+      "frames": [
+        930,
+        1149
+      ],
+      "duration_frames": 219,
+      "duration_s": 7.3,
+      "narration": "He turned to wake Sam... The sleeping bag was empty. Then, the zipper moved.",
+      "word_span_s": [
+        30.9375,
+        37.1
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.4
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.25,
+      "kick_impact": {
+        "frame": 1084,
+        "amplitude": 0.25,
+        "word": "zipper"
+      },
+      "matched_words_count": 13
+    }
+  ]
+}

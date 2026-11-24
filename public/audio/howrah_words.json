@@ -1,0 +1,1394 @@
+[
+  {
+    "word": "The",
+    "start_s": 0.0976,
+    "end_s": 0.2167,
+    "duration_s": 0.119
+  },
+  {
+    "word": "most",
+    "start_s": 0.2286,
+    "end_s": 0.4905,
+    "duration_s": 0.2619
+  },
+  {
+    "word": "crowded",
+    "start_s": 0.5024,
+    "end_s": 0.8952,
+    "duration_s": 0.3929
+  },
+  {
+    "word": "bridge",
+    "start_s": 0.9071,
+    "end_s": 1.1809,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "on",
+    "start_s": 1.1929,
+    "end_s": 1.3357,
+    "duration_s": 0.1429
+  },
+  {
+    "word": "Earth",
+    "start_s": 1.3476,
+    "end_s": 1.6095,
+    "duration_s": 0.2619
+  },
+  {
+    "word": "opened",
+    "start_s": 1.6214,
+    "end_s": 1.9428,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "in",
+    "start_s": 1.9547,
+    "end_s": 2.05,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "total",
+    "start_s": 2.0619,
+    "end_s": 2.3833,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "silence",
+    "start_s": 2.3952,
+    "end_s": 2.8715,
+    "duration_s": 0.4762
+  },
+  {
+    "word": "in",
+    "start_s": 2.8833,
+    "end_s": 2.9547,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "the",
+    "start_s": 2.9667,
+    "end_s": 3.0262,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "middle",
+    "start_s": 3.0381,
+    "end_s": 3.2762,
+    "duration_s": 0.2381
+  },
+  {
+    "word": "of",
+    "start_s": 3.2881,
+    "end_s": 3.3714,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "the",
+    "start_s": 3.3833,
+    "end_s": 3.4429,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "night",
+    "start_s": 3.4548,
+    "end_s": 3.8238,
+    "duration_s": 0.369
+  },
+  {
+    "word": "It's",
+    "start_s": 4.6429,
+    "end_s": 4.8333,
+    "duration_s": 0.1905
+  },
+  {
+    "word": "1943",
+    "start_s": 4.8453,
+    "end_s": 5.9643,
+    "duration_s": 1.119
+  },
+  {
+    "word": "and",
+    "start_s": 6.1786,
+    "end_s": 6.381,
+    "duration_s": 0.2024
+  },
+  {
+    "word": "engineers",
+    "start_s": 6.3929,
+    "end_s": 6.9048,
+    "duration_s": 0.5119
+  },
+  {
+    "word": "in",
+    "start_s": 6.9167,
+    "end_s": 7.0357,
+    "duration_s": 0.119
+  },
+  {
+    "word": "Kolkata",
+    "start_s": 7.0476,
+    "end_s": 7.6429,
+    "duration_s": 0.5952
+  },
+  {
+    "word": "have",
+    "start_s": 7.6547,
+    "end_s": 7.8333,
+    "duration_s": 0.1786
+  },
+  {
+    "word": "just",
+    "start_s": 7.8453,
+    "end_s": 8.0953,
+    "duration_s": 0.25
+  },
+  {
+    "word": "finished",
+    "start_s": 8.1071,
+    "end_s": 8.4524,
+    "duration_s": 0.3453
+  },
+  {
+    "word": "a",
+    "start_s": 8.4643,
+    "end_s": 8.5238,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "26,500-ton",
+    "start_s": 8.5357,
+    "end_s": 10.3571,
+    "duration_s": 1.8214
+  },
+  {
+    "word": "steel",
+    "start_s": 10.369,
+    "end_s": 10.6905,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "monster",
+    "start_s": 10.7024,
+    "end_s": 11.1547,
+    "duration_s": 0.4524
+  },
+  {
+    "word": "across",
+    "start_s": 11.1667,
+    "end_s": 11.5,
+    "duration_s": 0.3333
+  },
+  {
+    "word": "the",
+    "start_s": 11.5119,
+    "end_s": 11.5952,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "Hooghly",
+    "start_s": 11.6071,
+    "end_s": 11.9524,
+    "duration_s": 0.3453
+  },
+  {
+    "word": "River",
+    "start_s": 11.9643,
+    "end_s": 12.3572,
+    "duration_s": 0.3929
+  },
+  {
+    "word": "It",
+    "start_s": 13.1786,
+    "end_s": 13.3333,
+    "duration_s": 0.1547
+  },
+  {
+    "word": "stretches",
+    "start_s": 13.3453,
+    "end_s": 13.7976,
+    "duration_s": 0.4524
+  },
+  {
+    "word": "1,500 feet",
+    "start_s": 13.8095,
+    "end_s": 15.2976,
+    "duration_s": 1.4881
+  },
+  {
+    "word": "from",
+    "start_s": 15.3095,
+    "end_s": 15.4643,
+    "duration_s": 0.1547
+  },
+  {
+    "word": "bank",
+    "start_s": 15.4762,
+    "end_s": 15.8095,
+    "duration_s": 0.3333
+  },
+  {
+    "word": "to",
+    "start_s": 15.8214,
+    "end_s": 15.9285,
+    "duration_s": 0.1071
+  },
+  {
+    "word": "bank",
+    "start_s": 15.9405,
+    "end_s": 16.2738,
+    "duration_s": 0.3333
+  },
+  {
+    "word": "without",
+    "start_s": 16.2857,
+    "end_s": 16.5833,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "a",
+    "start_s": 16.5953,
+    "end_s": 16.6429,
+    "duration_s": 0.0476
+  },
+  {
+    "word": "single",
+    "start_s": 16.6547,
+    "end_s": 17.0238,
+    "duration_s": 0.369
+  },
+  {
+    "word": "pillar",
+    "start_s": 17.0357,
+    "end_s": 17.3571,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "touching",
+    "start_s": 17.369,
+    "end_s": 17.6905,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "the",
+    "start_s": 17.7024,
+    "end_s": 17.7857,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "water",
+    "start_s": 17.7976,
+    "end_s": 18.0714,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "below",
+    "start_s": 18.0833,
+    "end_s": 18.5238,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "Even",
+    "start_s": 19.3453,
+    "end_s": 19.631,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "crazier",
+    "start_s": 19.6429,
+    "end_s": 20.2024,
+    "duration_s": 0.5595
+  },
+  {
+    "word": "the",
+    "start_s": 20.3929,
+    "end_s": 20.4643,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "entire",
+    "start_s": 20.4762,
+    "end_s": 20.9524,
+    "duration_s": 0.4762
+  },
+  {
+    "word": "skeleton",
+    "start_s": 20.9643,
+    "end_s": 21.5,
+    "duration_s": 0.5357
+  },
+  {
+    "word": "is",
+    "start_s": 21.5119,
+    "end_s": 21.6667,
+    "duration_s": 0.1547
+  },
+  {
+    "word": "riveted",
+    "start_s": 21.6786,
+    "end_s": 22.0119,
+    "duration_s": 0.3333
+  },
+  {
+    "word": "together",
+    "start_s": 22.0238,
+    "end_s": 22.4405,
+    "duration_s": 0.4167
+  },
+  {
+    "word": "without",
+    "start_s": 22.4524,
+    "end_s": 22.75,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "a",
+    "start_s": 22.7619,
+    "end_s": 22.8095,
+    "duration_s": 0.0476
+  },
+  {
+    "word": "single",
+    "start_s": 22.8214,
+    "end_s": 23.2262,
+    "duration_s": 0.4047
+  },
+  {
+    "word": "nut",
+    "start_s": 23.2381,
+    "end_s": 23.4881,
+    "duration_s": 0.25
+  },
+  {
+    "word": "or",
+    "start_s": 23.5,
+    "end_s": 23.619,
+    "duration_s": 0.119
+  },
+  {
+    "word": "bolt",
+    "start_s": 23.631,
+    "end_s": 24.0357,
+    "duration_s": 0.4047
+  },
+  {
+    "word": "Normally",
+    "start_s": 24.8571,
+    "end_s": 25.4047,
+    "duration_s": 0.5476
+  },
+  {
+    "word": "a",
+    "start_s": 25.6071,
+    "end_s": 25.6905,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "bridge",
+    "start_s": 25.7024,
+    "end_s": 26.0238,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "like",
+    "start_s": 26.0357,
+    "end_s": 26.2262,
+    "duration_s": 0.1905
+  },
+  {
+    "word": "this",
+    "start_s": 26.2381,
+    "end_s": 26.4405,
+    "duration_s": 0.2024
+  },
+  {
+    "word": "gets",
+    "start_s": 26.4524,
+    "end_s": 26.6547,
+    "duration_s": 0.2024
+  },
+  {
+    "word": "brass",
+    "start_s": 26.6667,
+    "end_s": 26.9881,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "bands",
+    "start_s": 27.0,
+    "end_s": 27.4524,
+    "duration_s": 0.4524
+  },
+  {
+    "word": "speeches",
+    "start_s": 27.6547,
+    "end_s": 28.25,
+    "duration_s": 0.5952
+  },
+  {
+    "word": "and",
+    "start_s": 28.4405,
+    "end_s": 28.5952,
+    "duration_s": 0.1547
+  },
+  {
+    "word": "a",
+    "start_s": 28.6071,
+    "end_s": 28.6428,
+    "duration_s": 0.0357
+  },
+  {
+    "word": "massive",
+    "start_s": 28.6547,
+    "end_s": 29.0952,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "parade",
+    "start_s": 29.1071,
+    "end_s": 29.6428,
+    "duration_s": 0.5357
+  },
+  {
+    "word": "Instead",
+    "start_s": 30.4643,
+    "end_s": 31.0595,
+    "duration_s": 0.5952
+  },
+  {
+    "word": "at",
+    "start_s": 31.2381,
+    "end_s": 31.4047,
+    "duration_s": 0.1667
+  },
+  {
+    "word": "midnight",
+    "start_s": 31.4167,
+    "end_s": 31.881,
+    "duration_s": 0.4643
+  },
+  {
+    "word": "the",
+    "start_s": 32.119,
+    "end_s": 32.2143,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "very",
+    "start_s": 32.2262,
+    "end_s": 32.5,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "first",
+    "start_s": 32.5119,
+    "end_s": 32.8333,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "thing",
+    "start_s": 32.8453,
+    "end_s": 33.0,
+    "duration_s": 0.1547
+  },
+  {
+    "word": "to",
+    "start_s": 33.0119,
+    "end_s": 33.1072,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "cross",
+    "start_s": 33.119,
+    "end_s": 33.4643,
+    "duration_s": 0.3453
+  },
+  {
+    "word": "it",
+    "start_s": 33.4762,
+    "end_s": 33.5715,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "is",
+    "start_s": 33.5833,
+    "end_s": 33.7024,
+    "duration_s": 0.119
+  },
+  {
+    "word": "one",
+    "start_s": 33.7143,
+    "end_s": 34.0,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "lonely",
+    "start_s": 34.0119,
+    "end_s": 34.3333,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "tram",
+    "start_s": 34.3453,
+    "end_s": 34.7024,
+    "duration_s": 0.3571
+  },
+  {
+    "word": "rolling",
+    "start_s": 34.7143,
+    "end_s": 35.0357,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "through",
+    "start_s": 35.0476,
+    "end_s": 35.2024,
+    "duration_s": 0.1547
+  },
+  {
+    "word": "the",
+    "start_s": 35.2143,
+    "end_s": 35.3095,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "dark",
+    "start_s": 35.3214,
+    "end_s": 35.7619,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "World",
+    "start_s": 36.5833,
+    "end_s": 36.9167,
+    "duration_s": 0.3333
+  },
+  {
+    "word": "War",
+    "start_s": 36.9286,
+    "end_s": 37.119,
+    "duration_s": 0.1905
+  },
+  {
+    "word": "II",
+    "start_s": 37.131,
+    "end_s": 37.4047,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "was",
+    "start_s": 37.4167,
+    "end_s": 37.6071,
+    "duration_s": 0.1905
+  },
+  {
+    "word": "raging",
+    "start_s": 37.619,
+    "end_s": 38.0595,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "and",
+    "start_s": 38.2619,
+    "end_s": 38.3929,
+    "duration_s": 0.131
+  },
+  {
+    "word": "Japanese",
+    "start_s": 38.4047,
+    "end_s": 38.9167,
+    "duration_s": 0.5119
+  },
+  {
+    "word": "bombers",
+    "start_s": 38.9286,
+    "end_s": 39.3333,
+    "duration_s": 0.4047
+  },
+  {
+    "word": "were",
+    "start_s": 39.3453,
+    "end_s": 39.4405,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "hitting",
+    "start_s": 39.4524,
+    "end_s": 39.7024,
+    "duration_s": 0.25
+  },
+  {
+    "word": "the",
+    "start_s": 39.7143,
+    "end_s": 39.7857,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "city",
+    "start_s": 39.7976,
+    "end_s": 40.1072,
+    "duration_s": 0.3095
+  },
+  {
+    "word": "from",
+    "start_s": 40.119,
+    "end_s": 40.2619,
+    "duration_s": 0.1429
+  },
+  {
+    "word": "the",
+    "start_s": 40.2738,
+    "end_s": 40.3452,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "sky",
+    "start_s": 40.3571,
+    "end_s": 40.8214,
+    "duration_s": 0.4643
+  },
+  {
+    "word": "Officials",
+    "start_s": 41.6547,
+    "end_s": 42.1785,
+    "duration_s": 0.5238
+  },
+  {
+    "word": "were",
+    "start_s": 42.1905,
+    "end_s": 42.2976,
+    "duration_s": 0.1071
+  },
+  {
+    "word": "terrified",
+    "start_s": 42.3095,
+    "end_s": 42.8929,
+    "duration_s": 0.5833
+  },
+  {
+    "word": "a",
+    "start_s": 42.9047,
+    "end_s": 42.9762,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "daytime",
+    "start_s": 42.9881,
+    "end_s": 43.4762,
+    "duration_s": 0.4881
+  },
+  {
+    "word": "crowd",
+    "start_s": 43.4881,
+    "end_s": 43.8571,
+    "duration_s": 0.369
+  },
+  {
+    "word": "would",
+    "start_s": 43.869,
+    "end_s": 44.0,
+    "duration_s": 0.131
+  },
+  {
+    "word": "turn",
+    "start_s": 44.0119,
+    "end_s": 44.2262,
+    "duration_s": 0.2143
+  },
+  {
+    "word": "their",
+    "start_s": 44.2381,
+    "end_s": 44.369,
+    "duration_s": 0.131
+  },
+  {
+    "word": "brand-new",
+    "start_s": 44.381,
+    "end_s": 44.8333,
+    "duration_s": 0.4524
+  },
+  {
+    "word": "pride",
+    "start_s": 44.8453,
+    "end_s": 45.2857,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "and",
+    "start_s": 45.2976,
+    "end_s": 45.4405,
+    "duration_s": 0.1429
+  },
+  {
+    "word": "joy",
+    "start_s": 45.4524,
+    "end_s": 45.7381,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "into",
+    "start_s": 45.75,
+    "end_s": 46.0,
+    "duration_s": 0.25
+  },
+  {
+    "word": "an",
+    "start_s": 46.0119,
+    "end_s": 46.131,
+    "duration_s": 0.119
+  },
+  {
+    "word": "easy",
+    "start_s": 46.1429,
+    "end_s": 46.4048,
+    "duration_s": 0.2619
+  },
+  {
+    "word": "target",
+    "start_s": 46.4167,
+    "end_s": 46.9047,
+    "duration_s": 0.4881
+  },
+  {
+    "word": "Luckily",
+    "start_s": 47.7262,
+    "end_s": 48.25,
+    "duration_s": 0.5238
+  },
+  {
+    "word": "the",
+    "start_s": 48.369,
+    "end_s": 48.4643,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "bombers",
+    "start_s": 48.4762,
+    "end_s": 48.8929,
+    "duration_s": 0.4167
+  },
+  {
+    "word": "never",
+    "start_s": 48.9047,
+    "end_s": 49.1905,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "took",
+    "start_s": 49.2024,
+    "end_s": 49.3928,
+    "duration_s": 0.1905
+  },
+  {
+    "word": "it",
+    "start_s": 49.4047,
+    "end_s": 49.5,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "down",
+    "start_s": 49.5119,
+    "end_s": 49.9286,
+    "duration_s": 0.4167
+  },
+  {
+    "word": "Unluckily",
+    "start_s": 50.75,
+    "end_s": 51.3929,
+    "duration_s": 0.6429
+  },
+  {
+    "word": "the",
+    "start_s": 51.5714,
+    "end_s": 51.6785,
+    "duration_s": 0.1071
+  },
+  {
+    "word": "bridge",
+    "start_s": 51.6905,
+    "end_s": 52.0119,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "still",
+    "start_s": 52.0238,
+    "end_s": 52.2976,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "had",
+    "start_s": 52.3095,
+    "end_s": 52.4762,
+    "duration_s": 0.1667
+  },
+  {
+    "word": "to",
+    "start_s": 52.4881,
+    "end_s": 52.5595,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "fight",
+    "start_s": 52.5714,
+    "end_s": 52.8571,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "gravity",
+    "start_s": 52.869,
+    "end_s": 53.3452,
+    "duration_s": 0.4762
+  },
+  {
+    "word": "every",
+    "start_s": 53.3571,
+    "end_s": 53.619,
+    "duration_s": 0.2619
+  },
+  {
+    "word": "single",
+    "start_s": 53.631,
+    "end_s": 53.9881,
+    "duration_s": 0.3571
+  },
+  {
+    "word": "second",
+    "start_s": 54.0,
+    "end_s": 54.4047,
+    "duration_s": 0.4047
+  },
+  {
+    "word": "without",
+    "start_s": 54.4167,
+    "end_s": 54.6905,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "a",
+    "start_s": 54.7024,
+    "end_s": 54.75,
+    "duration_s": 0.0476
+  },
+  {
+    "word": "center",
+    "start_s": 54.7619,
+    "end_s": 55.0833,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "pier",
+    "start_s": 55.0953,
+    "end_s": 55.5,
+    "duration_s": 0.4047
+  },
+  {
+    "word": "You",
+    "start_s": 56.3214,
+    "end_s": 56.5,
+    "duration_s": 0.1786
+  },
+  {
+    "word": "see",
+    "start_s": 56.5119,
+    "end_s": 56.881,
+    "duration_s": 0.369
+  },
+  {
+    "word": "how",
+    "start_s": 57.131,
+    "end_s": 57.2381,
+    "duration_s": 0.1071
+  },
+  {
+    "word": "does",
+    "start_s": 57.25,
+    "end_s": 57.3929,
+    "duration_s": 0.1429
+  },
+  {
+    "word": "a",
+    "start_s": 57.4047,
+    "end_s": 57.4762,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "bridge",
+    "start_s": 57.4881,
+    "end_s": 57.8571,
+    "duration_s": 0.369
+  },
+  {
+    "word": "that",
+    "start_s": 57.869,
+    "end_s": 57.9881,
+    "duration_s": 0.119
+  },
+  {
+    "word": "heavy",
+    "start_s": 58.0,
+    "end_s": 58.2976,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "hang",
+    "start_s": 58.3095,
+    "end_s": 58.5595,
+    "duration_s": 0.25
+  },
+  {
+    "word": "over",
+    "start_s": 58.5714,
+    "end_s": 58.7857,
+    "duration_s": 0.2143
+  },
+  {
+    "word": "a",
+    "start_s": 58.7976,
+    "end_s": 58.8572,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "river",
+    "start_s": 58.869,
+    "end_s": 59.1667,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "with",
+    "start_s": 59.1786,
+    "end_s": 59.3215,
+    "duration_s": 0.1429
+  },
+  {
+    "word": "nothing",
+    "start_s": 59.3333,
+    "end_s": 59.7024,
+    "duration_s": 0.369
+  },
+  {
+    "word": "underneath",
+    "start_s": 59.7143,
+    "end_s": 60.131,
+    "duration_s": 0.4167
+  },
+  {
+    "word": "it",
+    "start_s": 60.1429,
+    "end_s": 60.3333,
+    "duration_s": 0.1905
+  },
+  {
+    "word": "Ever",
+    "start_s": 61.1547,
+    "end_s": 61.4285,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "sat",
+    "start_s": 61.4405,
+    "end_s": 61.7262,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "back-to-back",
+    "start_s": 61.7381,
+    "end_s": 62.3214,
+    "duration_s": 0.5833
+  },
+  {
+    "word": "with",
+    "start_s": 62.3333,
+    "end_s": 62.4524,
+    "duration_s": 0.119
+  },
+  {
+    "word": "someone",
+    "start_s": 62.4643,
+    "end_s": 62.7619,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "on",
+    "start_s": 62.7738,
+    "end_s": 62.8809,
+    "duration_s": 0.1071
+  },
+  {
+    "word": "a",
+    "start_s": 62.8929,
+    "end_s": 62.9405,
+    "duration_s": 0.0476
+  },
+  {
+    "word": "seesaw",
+    "start_s": 62.9524,
+    "end_s": 63.381,
+    "duration_s": 0.4286
+  },
+  {
+    "word": "leaning",
+    "start_s": 63.631,
+    "end_s": 63.9286,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "outward",
+    "start_s": 63.9405,
+    "end_s": 64.3214,
+    "duration_s": 0.381
+  },
+  {
+    "word": "so",
+    "start_s": 64.3333,
+    "end_s": 64.5238,
+    "duration_s": 0.1905
+  },
+  {
+    "word": "both",
+    "start_s": 64.5357,
+    "end_s": 64.8333,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "ends",
+    "start_s": 64.8452,
+    "end_s": 65.0952,
+    "duration_s": 0.25
+  },
+  {
+    "word": "balance",
+    "start_s": 65.1071,
+    "end_s": 65.5119,
+    "duration_s": 0.4047
+  },
+  {
+    "word": "in",
+    "start_s": 65.5238,
+    "end_s": 65.6309,
+    "duration_s": 0.1071
+  },
+  {
+    "word": "mid-air",
+    "start_s": 65.6429,
+    "end_s": 66.0953,
+    "duration_s": 0.4524
+  },
+  {
+    "word": "Each",
+    "start_s": 66.9167,
+    "end_s": 67.2024,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "side",
+    "start_s": 67.2143,
+    "end_s": 67.4762,
+    "duration_s": 0.2619
+  },
+  {
+    "word": "of",
+    "start_s": 67.4881,
+    "end_s": 67.5357,
+    "duration_s": 0.0476
+  },
+  {
+    "word": "the",
+    "start_s": 67.5476,
+    "end_s": 67.619,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "Howrah",
+    "start_s": 67.631,
+    "end_s": 67.9881,
+    "duration_s": 0.3571
+  },
+  {
+    "word": "Bridge",
+    "start_s": 68.0,
+    "end_s": 68.2857,
+    "duration_s": 0.2857
+  },
+  {
+    "word": "anchors",
+    "start_s": 68.2976,
+    "end_s": 68.6905,
+    "duration_s": 0.3929
+  },
+  {
+    "word": "deep",
+    "start_s": 68.7024,
+    "end_s": 68.9762,
+    "duration_s": 0.2738
+  },
+  {
+    "word": "into",
+    "start_s": 68.9881,
+    "end_s": 69.1667,
+    "duration_s": 0.1786
+  },
+  {
+    "word": "the",
+    "start_s": 69.1786,
+    "end_s": 69.2857,
+    "duration_s": 0.1071
+  },
+  {
+    "word": "riverbanks",
+    "start_s": 69.2976,
+    "end_s": 69.869,
+    "duration_s": 0.5714
+  },
+  {
+    "word": "to",
+    "start_s": 69.881,
+    "end_s": 69.9762,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "hold",
+    "start_s": 69.9881,
+    "end_s": 70.2262,
+    "duration_s": 0.2381
+  },
+  {
+    "word": "the",
+    "start_s": 70.2381,
+    "end_s": 70.2976,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "middle",
+    "start_s": 70.3095,
+    "end_s": 70.5595,
+    "duration_s": 0.25
+  },
+  {
+    "word": "up",
+    "start_s": 70.5714,
+    "end_s": 70.7143,
+    "duration_s": 0.1429
+  },
+  {
+    "word": "in",
+    "start_s": 70.7262,
+    "end_s": 70.7857,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "the",
+    "start_s": 70.7976,
+    "end_s": 70.8572,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "sky",
+    "start_s": 70.869,
+    "end_s": 71.3333,
+    "duration_s": 0.4643
+  },
+  {
+    "word": "The",
+    "start_s": 72.1667,
+    "end_s": 72.3095,
+    "duration_s": 0.1429
+  },
+  {
+    "word": "secret",
+    "start_s": 72.3214,
+    "end_s": 72.6905,
+    "duration_s": 0.369
+  },
+  {
+    "word": "midnight",
+    "start_s": 72.7024,
+    "end_s": 73.119,
+    "duration_s": 0.4167
+  },
+  {
+    "word": "crossing",
+    "start_s": 73.131,
+    "end_s": 73.5714,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "survived",
+    "start_s": 73.5833,
+    "end_s": 74.0595,
+    "duration_s": 0.4762
+  },
+  {
+    "word": "the",
+    "start_s": 74.0714,
+    "end_s": 74.1547,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "war",
+    "start_s": 74.1667,
+    "end_s": 74.5357,
+    "duration_s": 0.369
+  },
+  {
+    "word": "and",
+    "start_s": 74.5476,
+    "end_s": 74.619,
+    "duration_s": 0.0714
+  },
+  {
+    "word": "became",
+    "start_s": 74.631,
+    "end_s": 74.9524,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "the",
+    "start_s": 74.9643,
+    "end_s": 75.0595,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "busiest",
+    "start_s": 75.0714,
+    "end_s": 75.5119,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "cantilever",
+    "start_s": 75.5238,
+    "end_s": 76.0952,
+    "duration_s": 0.5714
+  },
+  {
+    "word": "bridge",
+    "start_s": 76.1072,
+    "end_s": 76.4286,
+    "duration_s": 0.3214
+  },
+  {
+    "word": "on",
+    "start_s": 76.4405,
+    "end_s": 76.5238,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "the",
+    "start_s": 76.5357,
+    "end_s": 76.5952,
+    "duration_s": 0.0595
+  },
+  {
+    "word": "planet",
+    "start_s": 76.6072,
+    "end_s": 77.0715,
+    "duration_s": 0.4643
+  },
+  {
+    "word": "So",
+    "start_s": 77.8929,
+    "end_s": 78.1905,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "today",
+    "start_s": 78.2024,
+    "end_s": 78.6548,
+    "duration_s": 0.4524
+  },
+  {
+    "word": "the",
+    "start_s": 78.869,
+    "end_s": 78.9881,
+    "duration_s": 0.119
+  },
+  {
+    "word": "bridge",
+    "start_s": 79.0,
+    "end_s": 79.2976,
+    "duration_s": 0.2976
+  },
+  {
+    "word": "built",
+    "start_s": 79.3095,
+    "end_s": 79.5595,
+    "duration_s": 0.25
+  },
+  {
+    "word": "to",
+    "start_s": 79.5714,
+    "end_s": 79.6667,
+    "duration_s": 0.0953
+  },
+  {
+    "word": "hide",
+    "start_s": 79.6786,
+    "end_s": 80.0238,
+    "duration_s": 0.3453
+  },
+  {
+    "word": "from",
+    "start_s": 80.0357,
+    "end_s": 80.1905,
+    "duration_s": 0.1547
+  },
+  {
+    "word": "crowds",
+    "start_s": 80.2024,
+    "end_s": 80.6428,
+    "duration_s": 0.4405
+  },
+  {
+    "word": "carries",
+    "start_s": 80.6548,
+    "end_s": 80.9881,
+    "duration_s": 0.3333
+  },
+  {
+    "word": "hundreds",
+    "start_s": 81.0,
+    "end_s": 81.3452,
+    "duration_s": 0.3453
+  },
+  {
+    "word": "of",
+    "start_s": 81.3572,
+    "end_s": 81.4405,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "thousands",
+    "start_s": 81.4524,
+    "end_s": 81.9167,
+    "duration_s": 0.4643
+  },
+  {
+    "word": "of",
+    "start_s": 81.9286,
+    "end_s": 82.0119,
+    "duration_s": 0.0833
+  },
+  {
+    "word": "people",
+    "start_s": 82.0238,
+    "end_s": 82.4048,
+    "duration_s": 0.381
+  },
+  {
+    "word": "every",
+    "start_s": 82.4167,
+    "end_s": 82.6429,
+    "duration_s": 0.2262
+  },
+  {
+    "word": "single",
+    "start_s": 82.6548,
+    "end_s": 83.0,
+    "duration_s": 0.3453
+  },
+  {
+    "word": "day",
+    "start_s": 83.0119,
+    "end_s": 83.369,
+    "duration_s": 0.3571
+  }
+]

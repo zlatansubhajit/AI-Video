@@ -1,0 +1,209 @@
+{
+  "episode": "shawshank_hope",
+  "fps": 30,
+  "total_frames": 1523,
+  "duration_s": 50.77,
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+30%",
+  "audio_file": "public/audio/shawshank_hope_voice.mp3",
+  "shots": [
+    {
+      "id": "hook_hammer",
+      "scene": "cell_hook",
+      "frames": [
+        0,
+        238
+      ],
+      "duration_frames": 238,
+      "duration_s": 7.93,
+      "narration": "Imagine being trapped in a hopeless situation for nineteen years, with nothing but a tool the size of your finger to get you out. This is the ultimate lesson in patience.",
+      "word_span_s": [
+        0.0885,
+        7.5962
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.2
+      },
+      "cast": [],
+      "dof": 3.0,
+      "kick": 0.3,
+      "kick_impact": {
+        "frame": 210,
+        "amplitude": 0.3,
+        "word": "patience"
+      },
+      "matched_words_count": 31
+    },
+    {
+      "id": "yard_despair",
+      "scene": "prison_yard",
+      "frames": [
+        238,
+        473
+      ],
+      "duration_frames": 235,
+      "duration_s": 7.83,
+      "narration": "Wrongly sentenced to life, Andy Dufresne faced brutal walls and endless gray days. Even his closest friend warned him: hope is dangerous in here.",
+      "word_span_s": [
+        8.2596,
+        15.4327
+      ],
+      "camera": {
+        "move": "truck",
+        "ease": "smoother",
+        "from": -0.5,
+        "to": 0.5
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 24
+    },
+    {
+      "id": "quiet_plan",
+      "scene": "cell_poster",
+      "frames": [
+        473,
+        673
+      ],
+      "duration_frames": 200,
+      "duration_s": 6.67,
+      "narration": "Everyone else surrendered to the walls. Andy did not. Hidden behind a poster, he began a quiet rebellion.",
+      "word_span_s": [
+        16.0962,
+        22.0961
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.0
+      },
+      "cast": [],
+      "dof": 2.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 18
+    },
+    {
+      "id": "chip_montage",
+      "scene": "cell_chipping",
+      "frames": [
+        673,
+        958
+      ],
+      "duration_frames": 285,
+      "duration_s": 9.5,
+      "narration": "Night after night, one tiny strike against solid stone. Invisible progress. No shortcuts. Just unwavering patience for nineteen straight years.",
+      "word_span_s": [
+        22.7596,
+        31.5865
+      ],
+      "camera": {
+        "move": "creep",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 0.8
+      },
+      "cast": [],
+      "dof": 2.0,
+      "kick": 0.25,
+      "kick_impact": {
+        "frame": 915,
+        "amplitude": 0.25,
+        "word": "nineteen"
+      },
+      "matched_words_count": 20
+    },
+    {
+      "id": "storm_breakthrough",
+      "scene": "cell_breach",
+      "frames": [
+        958,
+        1134
+      ],
+      "duration_frames": 176,
+      "duration_s": 5.87,
+      "narration": "Then one stormy night, the impossible finally shattered. Years of quiet discipline broke straight through.",
+      "word_span_s": [
+        32.25,
+        37.4615
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.3
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.45,
+      "kick_impact": {
+        "frame": 1030,
+        "amplitude": 0.45,
+        "word": "shattered"
+      },
+      "matched_words_count": 15
+    },
+    {
+      "id": "rain_freedom",
+      "scene": "freedom_storm",
+      "frames": [
+        1134,
+        1263
+      ],
+      "duration_frames": 129,
+      "duration_s": 4.3,
+      "narration": "Crawling out of the darkness into pouring rain, Andy stood tall, completely free.",
+      "word_span_s": [
+        38.125,
+        41.7789
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.4
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": 0.35,
+      "kick_impact": {
+        "frame": 1241,
+        "amplitude": 0.35,
+        "word": "free"
+      },
+      "matched_words_count": 13
+    },
+    {
+      "id": "lesson_sunrise",
+      "scene": "freedom_sunrise",
+      "frames": [
+        1263,
+        1523
+      ],
+      "duration_frames": 260,
+      "duration_s": 8.67,
+      "narration": "You cannot always change your life overnight. But small, consistent actions fueled by hope can break the thickest walls. Keep chipping away.",
+      "word_span_s": [
+        42.4423,
+        49.7789
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.1
+      },
+      "cast": [],
+      "dof": 0.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 22
+    }
+  ]
+}

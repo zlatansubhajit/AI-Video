@@ -1,0 +1,494 @@
+[
+  {
+    "word": "Never",
+    "start_s": 0.0931,
+    "end_s": 0.384,
+    "duration_s": 0.291
+  },
+  {
+    "word": "let",
+    "start_s": 0.3948,
+    "end_s": 0.5349,
+    "duration_s": 0.1401
+  },
+  {
+    "word": "the",
+    "start_s": 0.5457,
+    "end_s": 0.6211,
+    "duration_s": 0.0754
+  },
+  {
+    "word": "campfire",
+    "start_s": 0.6319,
+    "end_s": 1.1599,
+    "duration_s": 0.528
+  },
+  {
+    "word": "die",
+    "start_s": 1.1707,
+    "end_s": 1.4401,
+    "duration_s": 0.2694
+  },
+  {
+    "word": "in",
+    "start_s": 1.4509,
+    "end_s": 1.591,
+    "duration_s": 0.1401
+  },
+  {
+    "word": "Pinewood",
+    "start_s": 1.6017,
+    "end_s": 2.022,
+    "duration_s": 0.4203
+  },
+  {
+    "word": "Valley",
+    "start_s": 2.0328,
+    "end_s": 2.4638,
+    "duration_s": 0.431
+  },
+  {
+    "word": "Leo",
+    "start_s": 3.2004,
+    "end_s": 3.5776,
+    "duration_s": 0.3772
+  },
+  {
+    "word": "and",
+    "start_s": 3.5884,
+    "end_s": 3.7069,
+    "duration_s": 0.1185
+  },
+  {
+    "word": "Sam",
+    "start_s": 3.7177,
+    "end_s": 4.041,
+    "duration_s": 0.3233
+  },
+  {
+    "word": "had",
+    "start_s": 4.0517,
+    "end_s": 4.1595,
+    "duration_s": 0.1077
+  },
+  {
+    "word": "hiked",
+    "start_s": 4.1703,
+    "end_s": 4.4612,
+    "duration_s": 0.291
+  },
+  {
+    "word": "since",
+    "start_s": 4.472,
+    "end_s": 4.7091,
+    "duration_s": 0.2371
+  },
+  {
+    "word": "sunrise",
+    "start_s": 4.7198,
+    "end_s": 5.2478,
+    "duration_s": 0.528
+  },
+  {
+    "word": "laughing",
+    "start_s": 5.4526,
+    "end_s": 5.8082,
+    "duration_s": 0.3556
+  },
+  {
+    "word": "their",
+    "start_s": 5.819,
+    "end_s": 5.959,
+    "duration_s": 0.1401
+  },
+  {
+    "word": "way",
+    "start_s": 5.9698,
+    "end_s": 6.1315,
+    "duration_s": 0.1616
+  },
+  {
+    "word": "deep",
+    "start_s": 6.1422,
+    "end_s": 6.4009,
+    "duration_s": 0.2586
+  },
+  {
+    "word": "into",
+    "start_s": 6.4116,
+    "end_s": 6.5625,
+    "duration_s": 0.1509
+  },
+  {
+    "word": "the",
+    "start_s": 6.5733,
+    "end_s": 6.6595,
+    "duration_s": 0.0862
+  },
+  {
+    "word": "pines",
+    "start_s": 6.6703,
+    "end_s": 7.1982,
+    "duration_s": 0.528
+  },
+  {
+    "word": "Near",
+    "start_s": 7.9418,
+    "end_s": 8.1896,
+    "duration_s": 0.2478
+  },
+  {
+    "word": "mile",
+    "start_s": 8.2004,
+    "end_s": 8.4914,
+    "duration_s": 0.291
+  },
+  {
+    "word": "six",
+    "start_s": 8.5022,
+    "end_s": 8.9224,
+    "duration_s": 0.4203
+  },
+  {
+    "word": "Leo",
+    "start_s": 9.1056,
+    "end_s": 9.3427,
+    "duration_s": 0.2371
+  },
+  {
+    "word": "stopped",
+    "start_s": 9.3535,
+    "end_s": 9.7845,
+    "duration_s": 0.431
+  },
+  {
+    "word": "freeing",
+    "start_s": 9.9138,
+    "end_s": 10.2263,
+    "duration_s": 0.3125
+  },
+  {
+    "word": "a",
+    "start_s": 10.2371,
+    "end_s": 10.291,
+    "duration_s": 0.0539
+  },
+  {
+    "word": "tiny",
+    "start_s": 10.3017,
+    "end_s": 10.6142,
+    "duration_s": 0.3125
+  },
+  {
+    "word": "wolf",
+    "start_s": 10.625,
+    "end_s": 10.8728,
+    "duration_s": 0.2478
+  },
+  {
+    "word": "pup",
+    "start_s": 10.8836,
+    "end_s": 11.0991,
+    "duration_s": 0.2155
+  },
+  {
+    "word": "caught",
+    "start_s": 11.1099,
+    "end_s": 11.4009,
+    "duration_s": 0.291
+  },
+  {
+    "word": "in",
+    "start_s": 11.4116,
+    "end_s": 11.5194,
+    "duration_s": 0.1077
+  },
+  {
+    "word": "an",
+    "start_s": 11.5302,
+    "end_s": 11.6272,
+    "duration_s": 0.097
+  },
+  {
+    "word": "old",
+    "start_s": 11.6379,
+    "end_s": 11.8319,
+    "duration_s": 0.194
+  },
+  {
+    "word": "red",
+    "start_s": 11.8427,
+    "end_s": 12.0366,
+    "duration_s": 0.194
+  },
+  {
+    "word": "rope",
+    "start_s": 12.0474,
+    "end_s": 12.3815,
+    "duration_s": 0.334
+  },
+  {
+    "word": "By",
+    "start_s": 13.125,
+    "end_s": 13.2866,
+    "duration_s": 0.1616
+  },
+  {
+    "word": "dusk",
+    "start_s": 13.2974,
+    "end_s": 13.7392,
+    "duration_s": 0.4418
+  },
+  {
+    "word": "they",
+    "start_s": 13.9332,
+    "end_s": 14.041,
+    "duration_s": 0.1077
+  },
+  {
+    "word": "pitched",
+    "start_s": 14.0517,
+    "end_s": 14.4073,
+    "duration_s": 0.3556
+  },
+  {
+    "word": "camp",
+    "start_s": 14.4181,
+    "end_s": 14.7198,
+    "duration_s": 0.3017
+  },
+  {
+    "word": "and",
+    "start_s": 14.7306,
+    "end_s": 14.8383,
+    "duration_s": 0.1077
+  },
+  {
+    "word": "crashed",
+    "start_s": 14.8491,
+    "end_s": 15.2047,
+    "duration_s": 0.3556
+  },
+  {
+    "word": "hard",
+    "start_s": 15.2155,
+    "end_s": 15.5711,
+    "duration_s": 0.3556
+  },
+  {
+    "word": "Hours",
+    "start_s": 16.3147,
+    "end_s": 16.6702,
+    "duration_s": 0.3556
+  },
+  {
+    "word": "later",
+    "start_s": 16.681,
+    "end_s": 16.9827,
+    "duration_s": 0.3017
+  },
+  {
+    "word": "the",
+    "start_s": 17.166,
+    "end_s": 17.2522,
+    "duration_s": 0.0862
+  },
+  {
+    "word": "last",
+    "start_s": 17.2629,
+    "end_s": 17.5646,
+    "duration_s": 0.3017
+  },
+  {
+    "word": "ember",
+    "start_s": 17.5754,
+    "end_s": 17.7586,
+    "duration_s": 0.1832
+  },
+  {
+    "word": "faded",
+    "start_s": 17.7694,
+    "end_s": 18.0927,
+    "duration_s": 0.3233
+  },
+  {
+    "word": "out",
+    "start_s": 18.1035,
+    "end_s": 18.4052,
+    "duration_s": 0.3017
+  },
+  {
+    "word": "At",
+    "start_s": 19.1487,
+    "end_s": 19.3427,
+    "duration_s": 0.194
+  },
+  {
+    "word": "two",
+    "start_s": 19.3535,
+    "end_s": 19.569,
+    "duration_s": 0.2155
+  },
+  {
+    "word": "fourteen",
+    "start_s": 19.5798,
+    "end_s": 19.9893,
+    "duration_s": 0.4095
+  },
+  {
+    "word": "AM",
+    "start_s": 20.0,
+    "end_s": 20.3448,
+    "duration_s": 0.3448
+  },
+  {
+    "word": "Leo",
+    "start_s": 20.5496,
+    "end_s": 20.7974,
+    "duration_s": 0.2478
+  },
+  {
+    "word": "snapped",
+    "start_s": 20.8082,
+    "end_s": 21.1638,
+    "duration_s": 0.3556
+  },
+  {
+    "word": "awake",
+    "start_s": 21.1746,
+    "end_s": 21.6272,
+    "duration_s": 0.4526
+  },
+  {
+    "word": "That",
+    "start_s": 22.3707,
+    "end_s": 22.5647,
+    "duration_s": 0.194
+  },
+  {
+    "word": "howl",
+    "start_s": 22.5754,
+    "end_s": 22.8556,
+    "duration_s": 0.2802
+  },
+  {
+    "word": "wasn't",
+    "start_s": 22.8664,
+    "end_s": 23.1358,
+    "duration_s": 0.2694
+  },
+  {
+    "word": "distant",
+    "start_s": 23.1465,
+    "end_s": 23.6099,
+    "duration_s": 0.4634
+  },
+  {
+    "word": "It",
+    "start_s": 24.3535,
+    "end_s": 24.4827,
+    "duration_s": 0.1293
+  },
+  {
+    "word": "was",
+    "start_s": 24.4935,
+    "end_s": 24.6336,
+    "duration_s": 0.1401
+  },
+  {
+    "word": "right",
+    "start_s": 24.6444,
+    "end_s": 24.8815,
+    "duration_s": 0.2371
+  },
+  {
+    "word": "outside",
+    "start_s": 24.8923,
+    "end_s": 25.4742,
+    "duration_s": 0.5819
+  },
+  {
+    "word": "He",
+    "start_s": 26.2177,
+    "end_s": 26.3685,
+    "duration_s": 0.1509
+  },
+  {
+    "word": "turned",
+    "start_s": 26.3793,
+    "end_s": 26.6379,
+    "duration_s": 0.2586
+  },
+  {
+    "word": "to",
+    "start_s": 26.6487,
+    "end_s": 26.7134,
+    "duration_s": 0.0647
+  },
+  {
+    "word": "wake",
+    "start_s": 26.7241,
+    "end_s": 26.9504,
+    "duration_s": 0.2263
+  },
+  {
+    "word": "Sam",
+    "start_s": 26.9612,
+    "end_s": 27.3815,
+    "duration_s": 0.4203
+  },
+  {
+    "word": "The",
+    "start_s": 28.125,
+    "end_s": 28.2543,
+    "duration_s": 0.1293
+  },
+  {
+    "word": "sleeping",
+    "start_s": 28.2651,
+    "end_s": 28.6746,
+    "duration_s": 0.4095
+  },
+  {
+    "word": "bag",
+    "start_s": 28.6853,
+    "end_s": 28.9763,
+    "duration_s": 0.291
+  },
+  {
+    "word": "was",
+    "start_s": 28.9871,
+    "end_s": 29.1703,
+    "duration_s": 0.1832
+  },
+  {
+    "word": "empty",
+    "start_s": 29.181,
+    "end_s": 29.569,
+    "duration_s": 0.3879
+  },
+  {
+    "word": "Then",
+    "start_s": 30.3125,
+    "end_s": 30.6465,
+    "duration_s": 0.334
+  },
+  {
+    "word": "the",
+    "start_s": 30.8082,
+    "end_s": 30.9052,
+    "duration_s": 0.097
+  },
+  {
+    "word": "zipper",
+    "start_s": 30.916,
+    "end_s": 31.1961,
+    "duration_s": 0.2802
+  },
+  {
+    "word": "moved",
+    "start_s": 31.2069,
+    "end_s": 31.681,
+    "duration_s": 0.4741
+  }
+]

@@ -1,0 +1,32 @@
+services:
+  remotion:
+    build: .
+    image: aivideo-remotion:latest
+    container_name: ai_video_remotion
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+      # WSL2 exposes the host GPU through /dev/dxg plus these D3D12 libraries.
+      # Mesa's d3d12 Gallium driver turns that into a hardware GL/EGL device.
+      - /usr/lib/wsl:/usr/lib/wsl:ro
+    devices:
+      - /dev/dxg:/dev/dxg
+    shm_size: "2gb"
+    ipc: host
+    environment:
+      - PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
+      - PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
+      - LD_LIBRARY_PATH=/usr/lib/wsl/lib
+      - MESA_LOADER_DRIVER_OVERRIDE=d3d12
+      - GALLIUM_DRIVER=d3d12
+      - LIBGL_ALWAYS_SOFTWARE=0
+      # GL backend for Remotion: angle-egl | angle | egl | vulkan | swangle
+      # angle-egl reaches Mesa d3d12 (GTX 1650); swangle is the software fallback.
+      - REMOTION_GL=${REMOTION_GL:-angle-egl}
+      - REMOTION_CONCURRENCY=${REMOTION_CONCURRENCY:-1}
+      # Keep Remotion bundles on the bind mount, not in the WSL VHD.
+      - TMPDIR=/app/.remotion-tmp
+      - TMP=/app/.remotion-tmp
+      - TEMP=/app/.remotion-tmp

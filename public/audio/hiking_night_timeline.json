@@ -1,0 +1,175 @@
+{
+  "episode": "hiking_night",
+  "fps": 30,
+  "total_frames": 889,
+  "duration_s": 29.63,
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+22%",
+  "audio_file": "public/audio/hiking_night_voice.mp3",
+  "shots": [
+    {
+      "id": "trek_day",
+      "scene": "trail_day",
+      "frames": [
+        0,
+        144
+      ],
+      "duration_frames": 144,
+      "duration_s": 4.8,
+      "narration": "Two friends, Sam and Leo, headed deep into the wild on an epic mountain hiking trip.",
+      "word_span_s": [
+        0.091,
+        4.4557
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 2.4
+      },
+      "cast": [],
+      "dof": 8.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 16
+    },
+    {
+      "id": "trek_evening",
+      "scene": "trail_sunset",
+      "frames": [
+        144,
+        302
+      ],
+      "duration_frames": 158,
+      "duration_s": 5.27,
+      "narration": "They trekked all day, climbing rocky trails until the golden sun finally sank behind the pines.",
+      "word_span_s": [
+        5.1537,
+        9.7233
+      ],
+      "camera": {
+        "move": "truck",
+        "ease": "smoother",
+        "from": -0.5,
+        "to": 0.8
+      },
+      "cast": [],
+      "dof": 10.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 16
+    },
+    {
+      "id": "camp_fire",
+      "scene": "camp_fire",
+      "frames": [
+        302,
+        453
+      ],
+      "duration_frames": 151,
+      "duration_s": 5.03,
+      "narration": "Exhausted, they pitched their tent and built a warm campfire, laughing under the starry woods.",
+      "word_span_s": [
+        10.4303,
+        14.7746
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.8
+      },
+      "cast": [],
+      "dof": 10.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 15
+    },
+    {
+      "id": "fire_out",
+      "scene": "tent_sleep",
+      "frames": [
+        453,
+        596
+      ],
+      "duration_frames": 143,
+      "duration_s": 4.77,
+      "narration": "Soon the fire was completely out, and both fell fast asleep inside the dark tent.",
+      "word_span_s": [
+        15.4815,
+        19.5389
+      ],
+      "camera": {
+        "move": "creep",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 0.8
+      },
+      "cast": [],
+      "dof": 12.0,
+      "kick": null,
+      "kick_impact": null,
+      "matched_words_count": 15
+    },
+    {
+      "id": "wolf_howl",
+      "scene": "wolf_howl",
+      "frames": [
+        596,
+        718
+      ],
+      "duration_frames": 122,
+      "duration_s": 4.07,
+      "narration": "In the dead of night, a bloodcurdling wolf howling echoed through the trees!",
+      "word_span_s": [
+        20.2459,
+        23.586
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.5
+      },
+      "cast": [],
+      "dof": 12.0,
+      "kick": 0.45,
+      "kick_impact": {
+        "frame": 662,
+        "amplitude": 0.45,
+        "word": "howling"
+      },
+      "matched_words_count": 13
+    },
+    {
+      "id": "tremble_fear",
+      "scene": "fear_tremble",
+      "frames": [
+        718,
+        889
+      ],
+      "duration_frames": 171,
+      "duration_s": 5.7,
+      "narration": "Sam snapped wide awake, shivering in absolute terror! More in part two!",
+      "word_span_s": [
+        24.293,
+        28.8217
+      ],
+      "camera": {
+        "move": "push",
+        "ease": "smoother",
+        "from": 0.0,
+        "to": 1.2
+      },
+      "cast": [],
+      "dof": 14.0,
+      "kick": 0.25,
+      "kick_impact": {
+        "frame": 845,
+        "amplitude": 0.25,
+        "word": "part"
+      },
+      "matched_words_count": 12
+    }
+  ]
+}
