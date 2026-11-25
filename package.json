@@ -1,7 +1,7 @@
 {
   "name": "ai-video-remotion",
   "version": "1.0.0",
-  "description": "Remotion Three.js animated shorts with cartoon-3d-short skill",
+  "description": "Remotion Three.js animated shorts with the faceless-video-v2 skill",
   "scripts": {
     "preview": "remotion preview",
     "render": "remotion render",
@@ -17,6 +17,7 @@
     "timing:align": "python3 scripts/align_voice_timing.py"
   },
   "dependencies": {
+    "@react-three/drei": "^9.122.0",
     "@react-three/fiber": "^8.17.10",
     "@react-three/postprocessing": "^2.16.2",
     "@remotion/cli": "^4.0.245",
